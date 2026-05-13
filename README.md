@@ -31,6 +31,14 @@ Fashion MNIST dataset.
 ## 💼 Business Impact
 Automates fashion item recognition,
 useful for e-commerce and retail industries.
+## 📈 Model Results
+
+| Metric | Value |
+|--------|-------|
+| Test Accuracy | 91% |
+| Dataset | Fashion MNIST |
+| Architecture | CNN |
+| Epochs | 10 |
 
 ## 👩‍💻 Author
 Sharifah Al-Dalbahi
